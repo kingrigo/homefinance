@@ -5,6 +5,7 @@ class Gastos extends Component {
         return (
             <div>
                 <h1>Gastos</h1>
+                <h1>UPS! Aun no hay nada aquí para ver!</h1>
             </div>
         )
     }

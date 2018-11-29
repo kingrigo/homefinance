@@ -14,7 +14,7 @@ class Dashboard extends Component {
            </div>
 
            <div className="text">
-             <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+             <span>Una interfaz donde podrás controlar todos tus ingresos, de una manera fácil y rapida.</span>
            </div>
             
            <NavLink to="/ingresos" className="card-notify btn"><i className="fas fa-arrow-right"></i></NavLink>
@@ -29,7 +29,7 @@ class Dashboard extends Component {
            </div>
 
            <div className="text">
-             <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+             <span>Aquí podrás ver cuanto dinero tienes guardado en el banco, en plazo fijos, o adentro del colchón.</span>
            </div>
             
            <NavLink to="/fondos" className="card-notify btn"><i className="fas fa-arrow-right"></i></NavLink>
@@ -44,7 +44,7 @@ class Dashboard extends Component {
            </div>
 
            <div className="text">
-             <span>Lorem ipsum dolor sit amet, id quo eruditi eloquentiam. Assum decore te sed. Elitr scripta ocurreret qui ad.</span>
+             <span>Un registro detallado de todos tus gastos, tanto en impuestos, como en necesidades personales u oceo.</span>
            </div>
             
            <NavLink to="/gastos" className="card-notify btn"><i className="fas fa-arrow-right"></i></NavLink>
