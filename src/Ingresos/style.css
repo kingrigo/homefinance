@@ -1,0 +1,12 @@
+form {
+    padding: 3% 10%;
+}
+.ingreso {
+    position:relative;
+}
+.chota {
+    position: absolute;
+    border-radius: 50%;
+    right: -1%;
+    top: -20%;
+}

@@ -1,0 +1,39 @@
+span {
+    font-size: 15px;
+}
+.a-card {
+    text-decoration: none;
+    color: #0062cc;
+    border-bottom: 2px solid #0062cc;
+}
+.box {
+    padding: 60px 0px;
+}
+.box-part {
+    background: #FFF;
+    border-radius: 20px;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+.text {
+    margin:20px 0px;
+}
+.fa{
+    color:#4183D7;
+}
+.card-notify {
+    position:absolute;
+    right: 45%;
+    bottom: 10px;
+    background: skyblue;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 14px;
+    width: 50px;
+    height: 50px;
+    padding: 15px 0 0 0;
+}
+.box-part {
+    box-shadow: 12px 15px 20px 0px rgba(46,61,73,0.15);
+    transition: all 150ms ease-out;
+  }
